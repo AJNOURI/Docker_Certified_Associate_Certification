@@ -1,7 +1,7 @@
 ## <u>**Installation and Configuration (15% of Exam)**</u>
 
-*   Complete Docker Installation on Multiple Platforms (CentOS/Red Hat)
-*   Complete Docker Installation on Multiple Platforms (Debian/Ubuntu)
+*   Docker Installation on Multiple Platforms (CentOS/Red Hat)
+*   Docker Installation on Multiple Platforms (Debian/Ubuntu)
 *   Selecting a Storage Driver
 *   Configuring Logging Drivers (Splunk, Journald, etc.)
 *   Setting Up Swarm (Configure Managers)
@@ -9,7 +9,7 @@
 *   Setting Up a Swarm (Backup and Restore)
 *   Outline the Sizing Requirements Prior to Installation
 *   Set Up and Configure Universal Control Plane (UCP) and Docker Trusted Repository (DTR) for Secure Cluster Management
-*   Complete Backups for UCP and DTR
+*   Backups for UCP and DTR
 *   Create and Manage UCP Users and Teams
 *   Namespaces, CGroups, and Certificates
 *   Exercise: Installing Docker Standard Edition and Configuring the Service to Start Automatically
@@ -70,7 +70,7 @@
 *   Hands-on Labs: Working with the DeviceMapper Storage Driver
 *   Hands-on Labs: Configuring Containers to Use Host Storage Mounts
 
-## **Networking (15% of Exam)**
+## <u>**Networking (15% of Exam)**</u>
 
 *   Create a Docker Bridge Network for a Developer to Use for Their Containers
 *   Configure Docker for External DNS
