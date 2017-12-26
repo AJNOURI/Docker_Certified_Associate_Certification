@@ -1,4 +1,4 @@
-<u>**Installation and Configuration (15% of Exam)**</u>
+## <u>**Installation and Configuration (15% of Exam)**</u>
 
 *   Complete Docker Installation on Multiple Platforms (CentOS/Red Hat)
 *   Complete Docker Installation on Multiple Platforms (Debian/Ubuntu)
@@ -16,7 +16,7 @@
 *   Hands-on Labs: Installing Docker CE and Pulling Images for Container Utilization
 *   Hands-on Labs: Creating a Management Host and Registering a Swarm Node
 
-<u>**Image Creation, Management, and Registry (20% of Exam)**</u>
+## <u>**Image Creation, Management, and Registry (20% of Exam)**</u>
 
 *   Pull an Image from a Registry (Using Docker Pull and Docker Images)
 *   Searching an Image Repository
@@ -37,7 +37,7 @@
 *   Exercise: Creating a New Image from a Container
 *   Exercise: Managing Containers (Creating, Starting and Stopping)
 
-<u>**Orchestration (25% of Exam)**</u>
+## <u>**Orchestration (25% of Exam)**</u>
 
 *   State the Difference Between Running a Container and Running a Service
 *   Demonstrate Steps to Lock (and Unlock) a Cluster
@@ -57,7 +57,7 @@
 *   Exercise: Reassign a Swarm Worker to Manager
 *   Hands-on Labs: Configure a Swarm and Scale Services Within Your Cluster
 
-<u>**Storage and Volumes (10% of Exam)**</u>
+## <u>**Storage and Volumes (10% of Exam)**</u>
 
 *   State Which Graph Driver Should Be Used on Which OS
 *   Summarize How an Image Is Composed of Multiple Layers on the Filesystem
@@ -70,7 +70,7 @@
 *   Hands-on Labs: Working with the DeviceMapper Storage Driver
 *   Hands-on Labs: Configuring Containers to Use Host Storage Mounts
 
-**Networking (15% of Exam)**
+## **Networking (15% of Exam)**
 
 *   Create a Docker Bridge Network for a Developer to Use for Their Containers
 *   Configure Docker for External DNS
@@ -85,7 +85,7 @@
 *   Exercise: Utilize External DNS With Your Containers
 *   Exercise: Create a New Bridge Network and Assign a Container To It
 
-<u>**Security (15% of Exam)**</u>
+## <u>**Security (15% of Exam)**</u>
 
 *   Describe the Process of Signing an Image and Enable Docker Content Trust
 *   Demonstrate That an Image Passes a Security Scan
