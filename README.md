@@ -1,7 +1,6 @@
 ## <u>**Installation and Configuration (15% of Exam)**</u>
 
-*   Docker Installation on Multiple Platforms (CentOS/Red Hat)
-*   Docker Installation on Multiple Platforms (Debian/Ubuntu)
+*   Docker Installation on Multiple Platforms (CentOS/Red Hat) / (Debian/Ubuntu)
 *   Selecting a Storage Driver
 *   Configuring Logging Drivers (Splunk, Journald, etc.)
 *   Setting Up Swarm (Configure Managers)
