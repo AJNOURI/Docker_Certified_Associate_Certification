@@ -7,7 +7,7 @@
 *   Setting Up Swarm (Add Nodes)
 *   Setting Up a Swarm (Backup and Restore)
 *   Outline the Sizing Requirements Prior to Installation
-*   Install Universal Control Plane (UCP)
+*   ![Install Universal Control Plane (UCP)](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Install-Universal-Control-Plane-(UCP))
 *   ![Install Docker Trusted Repository (DTR) for Secure Cluster Management](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Install-Docker-Trusted-Repository-(DTR)-for-Secure-Cluster-Management)
 *   Backups for UCP and DTR
 *   Create and Manage UCP Users and Teams
