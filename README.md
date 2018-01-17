@@ -10,7 +10,7 @@
 *   ![Install Universal Control Plane (UCP)](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Install-Universal-Control-Plane-(UCP))
 *   ![Install Docker Trusted Repository (DTR) for Secure Cluster Management](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Install-Docker-Trusted-Repository-(DTR)-for-Secure-Cluster-Management)
 *   ![Backups for UCP and DTR](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Backups-for-UCP-and-DTR)
-*   Create and Manage UCP Users and Teams
+*   ![Create and Manage UCP Users and Teams](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Create-and-Manage-UCP-Users-and-Teams)
 *   Namespaces, CGroups, and Certificates
 *   Exercise: Installing Docker Standard Edition and Configuring the Service to Start Automatically
 *   Hands-on Labs: Installing Docker CE and Pulling Images for Container Utilization
