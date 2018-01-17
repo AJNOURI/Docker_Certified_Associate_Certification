@@ -9,7 +9,7 @@
 *   Outline the Sizing Requirements Prior to Installation
 *   ![Install Universal Control Plane (UCP)](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Install-Universal-Control-Plane-(UCP))
 *   ![Install Docker Trusted Repository (DTR) for Secure Cluster Management](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Install-Docker-Trusted-Repository-(DTR)-for-Secure-Cluster-Management)
-*   Backups for UCP and DTR
+*   ![Backups for UCP and DTR](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Backups-for-UCP-and-DTR)
 *   Create and Manage UCP Users and Teams
 *   Namespaces, CGroups, and Certificates
 *   Exercise: Installing Docker Standard Edition and Configuring the Service to Start Automatically
