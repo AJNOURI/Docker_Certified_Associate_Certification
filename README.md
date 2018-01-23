@@ -12,9 +12,6 @@
 *   ![Backups for UCP and DTR](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Backups-for-UCP-and-DTR)
 *   ![Create and Manage UCP Users and Teams](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Create-and-Manage-UCP-Users-and-Teams)
 *   Namespaces, CGroups, and Certificates
-*   Exercise: Installing Docker Standard Edition and Configuring the Service to Start Automatically
-*   Hands-on Labs: Installing Docker CE and Pulling Images for Container Utilization
-*   Hands-on Labs: Creating a Management Host and Registering a Swarm Node
 
 ## <u>**Image Creation, Management, and Registry (20% of Exam)**</u>
 
@@ -33,9 +30,6 @@
 *   Prepare for a Docker Secure Registry
 *   Deploy, Configure, Log Into, Push, and Pull an Image in a Registry
 *   Managing Images in Your Private Repository
-*   Exercise: Pulling a Docker Image from a Repository and Tagging It Locally
-*   Exercise: Creating a New Image from a Container
-*   Exercise: Managing Containers (Creating, Starting and Stopping)
 
 ## <u>**Orchestration (25% of Exam)**</u>
 
@@ -51,11 +45,6 @@
 *   Identify the Steps Needed to Troubleshoot a Service Not Deploying
 *   How Dockerized Apps Communicate with Legacy Systems
 *   Paraphrase the Importance of Quorum in a Swarm Cluster
-*   Exercise: Create a Swarm Cluster
-*   Exercise: Start a Service and Scale It Within Your Swarm
-*   Exercise: Demonstrate How Failure Affects Service Replicas in a Swarm
-*   Exercise: Reassign a Swarm Worker to Manager
-*   Hands-on Labs: Configure a Swarm and Scale Services Within Your Cluster
 
 ## <u>**Storage and Volumes (10% of Exam)**</u>
 
@@ -63,12 +52,6 @@
 *   Summarize How an Image Is Composed of Multiple Layers on the Filesystem
 *   Describe How Storage and Volumes Can Be Used Across Cluster Nodes for Persistent Storage
 *   Identify the Steps You Would Take to Clean Up Unused Images (and Other Resources) On a File System (CLI)
-*   Exercise: Creating and Working With Volumes
-*   Exercise: Using External Volumes Within Your Containers
-*   Exercise: Creating a Bind Mount to Link Container Filesystem to Host Filesystem
-*   Exercise: Display Details About Your Containers and Control the Display of Output
-*   Hands-on Labs: Working with the DeviceMapper Storage Driver
-*   Hands-on Labs: Configuring Containers to Use Host Storage Mounts
 
 ## <u>**Networking (15% of Exam)**</u>
 
@@ -80,10 +63,6 @@
 *   Troubleshoot Container and Engine Logs to Understand Connectivity Issues Between Containers
 *   Understanding the Container Network Model
 *   Understand and Describe the Traffic Types that Flow Between the Docker Engine, Registry and UCP Components
-*   Exercise: Exposing Ports to Your Host System
-*   Exercise: Create a Docker Service on Your Swarm and Expose Service Ports to Each Host
-*   Exercise: Utilize External DNS With Your Containers
-*   Exercise: Create a New Bridge Network and Assign a Container To It
 
 ## <u>**Security (15% of Exam)**</u>
 
