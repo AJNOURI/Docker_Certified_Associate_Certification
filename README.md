@@ -1,4 +1,4 @@
-## <u>**Installation and Configuration (15% of Exam)**</u>
+## <u>**1- Installation and Configuration (15% of Exam)**</u>
 
 *   Docker Installation on Multiple Platforms (CentOS/Red Hat) / (Debian/Ubuntu)
 *   Selecting a Storage Driver
@@ -13,7 +13,7 @@
 *   ![Create and Manage UCP Users and Teams](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Create-and-Manage-UCP-Users-and-Teams)
 *   Namespaces, CGroups, and Certificates
 
-## <u>**Image Creation, Management, and Registry (20% of Exam)**</u>
+## <u>**2- Image Creation, Management, and Registry (20% of Exam)**</u>
 
 *   Pull an Image from a Registry (Using Docker Pull and Docker Images)
 *   Searching an Image Repository
@@ -31,7 +31,7 @@
 *   Deploy, Configure, Log Into, Push, and Pull an Image in a Registry
 *   Managing Images in Your Private Repository
 
-## <u>**Orchestration (25% of Exam)**</u>
+## <u>**3- Orchestration (25% of Exam)**</u>
 
 *   State the Difference Between Running a Container and Running a Service
 *   Demonstrate Steps to Lock (and Unlock) a Cluster
@@ -46,14 +46,14 @@
 *   How Dockerized Apps Communicate with Legacy Systems
 *   Paraphrase the Importance of Quorum in a Swarm Cluster
 
-## <u>**Storage and Volumes (10% of Exam)**</u>
+## <u>**4- Storage and Volumes (10% of Exam)**</u>
 
 *   State Which Graph Driver Should Be Used on Which OS
 *   Summarize How an Image Is Composed of Multiple Layers on the Filesystem
 *   Describe How Storage and Volumes Can Be Used Across Cluster Nodes for Persistent Storage
 *   Identify the Steps You Would Take to Clean Up Unused Images (and Other Resources) On a File System (CLI)
 
-## <u>**Networking (15% of Exam)**</u>
+## <u>**5- Networking (15% of Exam)**</u>
 
 *   Create a Docker Bridge Network for a Developer to Use for Their Containers
 *   Configure Docker for External DNS
@@ -64,7 +64,7 @@
 *   Understanding the Container Network Model
 *   Understand and Describe the Traffic Types that Flow Between the Docker Engine, Registry and UCP Components
 
-## <u>**Security (15% of Exam)**</u>
+## <u>**6- Security (15% of Exam)**</u>
 
 *   Describe the Process of Signing an Image and Enable Docker Content Trust
 *   Demonstrate That an Image Passes a Security Scan
