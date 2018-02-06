@@ -34,7 +34,7 @@
 ## <u>**3- Orchestration (25% of Exam)**</u>
 
 *   State the Difference Between Running a Container and Running a Service
-*   Demonstrate Steps to Lock (and Unlock) a Cluster
+*   ![Demonstrate Steps to Lock (and Unlock) a Cluster](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Locking-&-unlocking-Swarm-cluster)
 *   Extend the Instructions to Run Individual Containers into Running Services Under Swarm and Manipulate a Running Stack of Services
 *   Increase and Decrease the Number of Replicas in a Service
 *   Running Replicated vs. Global Services
