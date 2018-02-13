@@ -41,7 +41,8 @@
 *   Demonstrate the Usage of Templates with 'docker service create'
 *   Apply Node Labels for Task Placement
 *   ![Convert an Application Deployment into a Stack File Using a YAML Compose File with 'docker stack deploy'](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Creating-a-Docker-service-stack-with-docker-compose-file.)
-*   Understanding the 'docker inspect' Output
+*   
+1[Understanding the 'docker inspect' Output](https://github.com/AJNOURI/Docker_Certified_Associate_Certification/wiki/Understanding-the-'docker-inspect'-Output)
 *   Identify the Steps Needed to Troubleshoot a Service Not Deploying
 *   How Dockerized Apps Communicate with Legacy Systems
 *   Paraphrase the Importance of Quorum in a Swarm Cluster
